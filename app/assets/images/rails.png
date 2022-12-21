@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang='ja' xml:lang='ja' xmlns='http://www.w3.org/1999/xhtml'>
+  <head>
+    <title>404 File Not Found - Railsチュートリアル</title>
+    <meta name="apple-mobile-web-app-title" content="Rails Tutorial" />
+    <meta name="application-name"           content="Rails Tutorial" />
+
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="robots" content="all" />
+    <meta name="MSSmartTagsPreventParsing" content="true" />
+    <meta name="title"       content="Ruby on Rails チュートリアル：プロダクト開発の０→１を学ぼう" />
+    <meta name="description" content="お探しのページは見つかりませんでした" />
+    <meta name="keywords"    content="Ruby Rails チュートリアル ウェブ Rails開発 入門" />
+    <meta name="author"      content="Michael Hartl" />
+    <link rel="author" type="text/plain" href="/humans.txt" />
+    <meta name="viewport" content="width=device-width,initial-scale1=1">
+
+    <meta property="fb:admins"      content="715330868" />
+    <meta property="fb:app_id"      content="144878509039953" />
+    <meta property="og:title"       content="404 File Not Found - Railsチュートリアル"/>
+    <meta property="og:site_name"   content="404 File Not Found - Railsチュートリアル"/>
+    <meta property="og:image"       content="http://railstutorial.jp/images/layout/logo.png"/>
+    <meta property="og:url"         content="https://railstutorial.jp/404/not_found">
+    <meta property="og:type"        content="article" />
+    <meta property="og:description" content="お探しのページは見つかりませんでした" />
+
+    <meta name="twitter:card"  content="summary" />
+    <meta name="twitter:site"  content="@RailsTutorialJP" />
+    <meta name="twitter:title" content="Ruby on Rails チュートリアル：プロダクト開発の０→１を学ぼう" />
+    <meta name="twitter:description" content="お探しのページは見つかりませんでした" />
+    <meta name="twitter:image" content="http://railstutorial.jp/images/layout/logo.png" />
+    <meta name="twitter:url"   content="http://railstutorial.jp/" />
+
+    <link rel="apple-touch-icon" sizes="57x57"   href="/images/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60"   href="/images/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72"   href="/images/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76"   href="/images/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/images/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/images/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/images/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/images/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/images/favicons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/images/favicons/favicon-96x96.png">
+
+    <link rel="manifest"  href="/manifest.json">
+    <link rel="mask-icon" href="/images/favicons/safari-pinned-tab.svg" color="#6e0421">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/images/favicons/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <script src="/assets/application-cb1b8f11424fda3789fefe2f46382711d6fcda2efb6a9166b28f77535191dfd2.js"></script>
+
+      <link rel="stylesheet" media="all" href="/assets/application-a44d116045a1b5e4ee956313bb30a438844c4f2a3ee37cee963fe2517a75ddfd.css" />
+
+    <link rel="stylesheet" media="screen, projection" href="/assets/screen-52a5b1420bc2779b87de6ca91566ae48ff9ff8fbe241a798c99adba32b4ebe09.css" />
+    <link rel="stylesheet" media="print" href="/assets/print-11c4b669550925fa5e456f9963a732fe05fa781757a5ff982f0d4a7c189e67a2.css" />
+    <link rel="stylesheet" media="screen, projection" href="/assets/social-b2c69da45d88e2a7f2780a6ea3860f818993c0647a0f2e5ec4368736aa1336e8.css" />
+    <!--[if lte IE 7]>
+      <link rel="stylesheet" media="screen" href="/assets/ie-4ab67825f85c4ea0318c6dab2feabc2a8f92734393da4b7489950611f1b0300d.css" />
+    <![endif]-->
+    <!--[if lt IE 7]>  <div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;'>    <div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a></div>    <div style='width: 640px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'>      <div style='width: 75px; float: left;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-warning.jpg' alt='Warning!'/></div>      <div style='width: 275px; float: left; font-family: Arial, sans-serif;'>        <div style='font-size: 14px; font-weight: bold; margin-top: 12px;'>You are using an outdated browser</div>        <div style='font-size: 12px; margin-top: 6px; line-height: 12px;'>For a better experience using this site, please upgrade to a modern web browser.</div>      </div>      <div style='width: 75px; float: left;'><a href='http://www.firefox.com' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-firefox.jpg' style='border: none;' alt='Get Firefox 3.5'/></a></div>      <div style='width: 75px; float: left;'><a href='http://www.browserforthebetter.com/download.html' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-ie8.jpg' style='border: none;' alt='Get Internet Explorer 8'/></a></div>      <div style='width: 73px; float: left;'><a href='http://www.apple.com/safari/download/' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-safari.jpg' style='border: none;' alt='Get Safari 4'/></a></div>      <div style='float: left;'><a href='http://www.google.com/chrome' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-chrome.jpg' style='border: none;' alt='Get Google Chrome'/></a></div>    </div>  </div>  <![endif]-->
+    <link href='http://feeds.feedburner.com/railstutorial' rel='alternate' title='Rails Tutorial News' type='application/rss+xml' />
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-W5X8M22');</script>
+    <!-- End Google Tag Manager -->
+
+    <script type="text/javascript" async
+	    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML">
+    </script>
+  </head>
+  <body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5X8M22"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+<div style="background:#71151a;padding:24px;">
+  <img alt="Rails Tutorial logo" class="lazyload logo" style="width: 100px;" data-src="/images/layout/logo.png" loading="lazy" src="/spinner.svg" />
+</div>
+<section id="error-page">
+  <h1>404 File Not Found.</h1>
+  <h2>お探しのページは見つかりませんでした。</h2>
+  <img alt="お辞儀をするキャラクター" style="width: 250px;" data-src="/images/character/bow.png" loading="lazy" class="lazyload" src="/spinner.svg" />
+    <p>お探しのページは一時的にアクセスできない状況にあるか、<br class="sp-ignore">
+      レールから外れた可能性があります。</p>
+    <p>Rails学習のレールを見失わないよう、こちらへどうぞ。</p>
+  <p>
+    <a href="/" class="error-page-button"><i class="fas fa-chevron-circle-left"></i> トップページへ</a>
+  </p>
+  <h2><a href="https://twitter.com/RailsTutorialJP">@RailsTutorialJP</a> からの最近のお知らせ</h2>
+  <div style="max-width:600px;margin:auto">
+    <a class="twitter-timeline"
+  	       data-lang="ja"    data-link-color="#952012"
+  	       data-height="500" data-tweet-limit="3"  data-chrome="noheader nofooter noborders"
+  	       href="https://twitter.com/RailsTutorialJP?ref_src=twsrc%5Etfw">@RailsTutorialJP</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</section>
+
+
+  </body>
+</html>
