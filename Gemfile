@@ -4,6 +4,8 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 gem "rails",           "7.0.4"
 gem 'jquery-rails'
 gem "bcrypt",          "3.1.12"
+gem 'will_paginate', '3.3.0'
+gem 'bootstrap-will_paginate', '1.0.0'
 gem "bootstrap-sass",  "3.3.7"
 gem "mysql2",          "~> 0.5"
 gem "sassc-rails",     "2.1.2"
@@ -17,8 +19,8 @@ gem "bootsnap",        "1.12.0", require: false
 
 group :development, :test do
   gem "sqlite3", "1.4.2"
-  gem "byebug",  "9.0.6", platform: :mri
   gem "debug",   "1.5.0", platforms: %i[ mri mingw x64_mingw ]
+  gem 'faker'
 end
 
 group :development do
