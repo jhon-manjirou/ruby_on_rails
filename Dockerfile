@@ -9,6 +9,8 @@ COPY Gemfile.lock /myapp/Gemfile.lock
 RUN gem update --system
 RUN bundle update --bundler
 
+RUN apt-get update && apt-get install -y imagemagick
+RUN apt-get update && apt-get install -y libvips42
 RUN bundle install
 COPY . /myapp
 
